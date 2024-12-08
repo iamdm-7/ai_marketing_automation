@@ -1,0 +1,11 @@
+Campaign ID,Impressions,Clicks,Conversions,Spend,Revenue,Status,CTR,CPA,ROAS,Action
+1,10000,100,5,50,200,Active,1.0,10.0,4.0,No Action
+2,5000,20,1,40,50,Active,0.4,40.0,1.25,Pause Campaign (Low CTR)
+3,15000,300,15,300,1000,Active,2.0,20.0,3.3333333333333335,No Action
+4,20000,50,2,100,300,Active,0.25,50.0,3.0,Pause Campaign (Low CTR)
+5,12000,60,3,60,150,Active,0.5,20.0,2.5,Pause Campaign (Low CTR)
+6,18000,200,10,150,600,Active,1.1111111111111112,15.0,4.0,No Action
+7,7000,70,4,70,200,Active,1.0,17.5,2.857142857142857,No Action
+8,16000,100,5,90,400,Active,0.625,18.0,4.444444444444445,Pause Campaign (Low CTR)
+9,14000,50,1,40,80,Active,0.35714285714285715,40.0,2.0,Pause Campaign (Low CTR)
+10,10000,120,8,80,300,Active,1.2,10.0,3.75,No Action
